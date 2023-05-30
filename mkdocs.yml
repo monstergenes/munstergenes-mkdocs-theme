@@ -1,0 +1,14 @@
+site_name:  pumping-it  
+site_url: https://github.com/monstergenes/monstersite
+repo_url:  https://github.com/monstergenes/monstersite
+nav:
+
+    - home: 'index.md/'
+    - About: 'about.md/'
+theme:
+    name: null
+    custom_dir: 'custom_theme/'
+    nav:
+    
+      - home: 'main.html/'
+      - style: 'styles.css/'
