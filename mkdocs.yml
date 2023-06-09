@@ -1,6 +1,6 @@
 site_name:  pumping-it  
-site_url: https://github.com/monstergenes/monstersite
-repo_url:  https://github.com/monstergenes/monstersite
+site_url: https://monstergenes.github.io/munstergenes-mkdocs-theme/
+repo_url: https://monstergenes.fit huh 
 nav:
 
     - home: 'index.md/'
